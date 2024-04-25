@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dang-quang&label=Profile%20views&color=0e75b6&style=flat" alt="dang-quang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dang-quang" alt="dang-quang" /></a> </p>
-
 - 🔭 I’m currently working on **Ekyc Portal**
 
 - 🌱 I’m currently learning **Swift, Nestjs**
